@@ -2,9 +2,6 @@
 Basic organization for all projects
 
 ## Why
-A conversation...
-
-_Good, just made a organizational structure for all projects._
 I don't have any time table, all my activity is based on relevant project play (aka work 😂).
 
 Relevant project example - if I'm having trouble with something I do, or need to automate stuff (food cooking for example).
